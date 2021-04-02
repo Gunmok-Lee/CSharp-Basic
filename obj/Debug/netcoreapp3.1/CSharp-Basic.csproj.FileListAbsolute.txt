@@ -1,0 +1,12 @@
+/Users/antoniolee/CSharp/CSharp-Basic/bin/Debug/netcoreapp3.1/CSharp-Basic.deps.json
+/Users/antoniolee/CSharp/CSharp-Basic/bin/Debug/netcoreapp3.1/CSharp-Basic.runtimeconfig.json
+/Users/antoniolee/CSharp/CSharp-Basic/bin/Debug/netcoreapp3.1/CSharp-Basic.runtimeconfig.dev.json
+/Users/antoniolee/CSharp/CSharp-Basic/bin/Debug/netcoreapp3.1/CSharp-Basic.dll
+/Users/antoniolee/CSharp/CSharp-Basic/bin/Debug/netcoreapp3.1/CSharp-Basic.pdb
+/Users/antoniolee/CSharp/CSharp-Basic/obj/Debug/netcoreapp3.1/CSharp-Basic.csprojAssemblyReference.cache
+/Users/antoniolee/CSharp/CSharp-Basic/obj/Debug/netcoreapp3.1/CSharp-Basic.AssemblyInfoInputs.cache
+/Users/antoniolee/CSharp/CSharp-Basic/obj/Debug/netcoreapp3.1/CSharp-Basic.AssemblyInfo.cs
+/Users/antoniolee/CSharp/CSharp-Basic/obj/Debug/netcoreapp3.1/CSharp-Basic.csproj.CoreCompileInputs.cache
+/Users/antoniolee/CSharp/CSharp-Basic/obj/Debug/netcoreapp3.1/CSharp-Basic.dll
+/Users/antoniolee/CSharp/CSharp-Basic/obj/Debug/netcoreapp3.1/CSharp-Basic.pdb
+/Users/antoniolee/CSharp/CSharp-Basic/obj/Debug/netcoreapp3.1/CSharp-Basic.genruntimeconfig.cache
